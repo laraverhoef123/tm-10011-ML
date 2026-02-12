@@ -62,4 +62,4 @@ plt.suptitle("Scatterplots met regressielijn per dataset", y=1.02)
 plt.show()
 
 # %%
-
+#heeeee dit is aangepast!!!
