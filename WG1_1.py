@@ -63,15 +63,15 @@ plt.show()
 
 # %%
 #heeeee dit is aangepast!!!
-<<<<<<< HEAD
+
 a = 15
 a = 3 
 a = 139
-=======
+
 #aangepast in 2e branche
 a = 80
 a = 15
 a = 3
 a = 139
 
->>>>>>> branch-2
+
