@@ -66,3 +66,4 @@ plt.show()
 #aangepast in 2e branche
 a = 80
 a = 15
+a = 3
