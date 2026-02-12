@@ -64,3 +64,4 @@ plt.show()
 # %%
 #heeeee dit is aangepast!!!
 #aangepast in 2e branche
+a = 80
