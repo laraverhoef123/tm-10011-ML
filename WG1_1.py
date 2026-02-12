@@ -63,3 +63,4 @@ plt.show()
 
 # %%
 #heeeee dit is aangepast!!!
+a = 15
